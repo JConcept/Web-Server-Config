@@ -4,7 +4,7 @@
 
 This is a tutorial for configurate a web server for students of [@hepl](https://github.com/hepl-web).
 
-Work forked on : https://github.com/hepl-rsv/
+Work forked on : https://github.com/hepl-rsv/Web-Server-Config
 
 ---
 
